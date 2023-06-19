@@ -241,15 +241,3 @@ This particular algorithm employs the use of backtracking, one of the more commo
 6. We stop when we reach the 81st cell (the last cell in a Sudoku puzzle) and have placed a valid value.
 7. The puzzle has now been solved.
 8. Stop.
-
-## Running Tests
-* To run the tests, enter `c++ --std=c++17 tests/test_sudoku_suite.cpp` and then run the executable produced.
-
-## Acknowledgements
-
-* Shriram R - Idea Inspiration
-* Aravind B - Puzzle Display Design Ideas
-
-## Tools
-* Vim Editor
-* Clang C++ Compiler
